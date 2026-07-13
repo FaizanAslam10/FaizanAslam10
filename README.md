@@ -31,21 +31,6 @@ I'm a Computer Science student and Full-Stack Developer building software that a
 
 I build products **end to end** — interface, backend, database, authentication, deployment, and polish. From the first commit to the final orbit.
 
-<details>
-<summary><strong>Recovered Footage: The Day Gargantua Consumed This Profile</strong></summary>
-
-<br />
-
-<p align="center">
-  <img width="90%" src="gargantua-collapse.gif" alt="Every section of this profile spiraling into the black hole" />
-</p>
-
-<p align="center">
-  <sub>Recovered from a probe that crossed the event horizon. Every section of this profile was pulled into the singularity. Nothing escaped.</sub>
-</p>
-
-</details>
-
 ## Constellation of Highlights
 
 - Built **Qanoon**, an AI legal research assistant grounded in **1,000+ Pakistani statutes**
