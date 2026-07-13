@@ -29,16 +29,7 @@
 
 I'm a Computer Science student and Full-Stack Developer building software that actually ships: AI legal research, RAG pipelines, business websites, e-commerce systems, computer vision tools, and Unity games.
 
-I build products **end to end** â€” interface, backend, database, authentication, deployment, and polish. From the first commit to the final orbit.
-
-<p align="center">
-  <img width="90%" src="gargantua.png" alt="Gargantua black hole with glowing accretion disk" title="Click at your own risk â€” nothing escapes the event horizon" />
-</p>
-
-<p align="center">
-  <em>"Do not go gentle into that good night. Rage, rage against the dying of the light."</em><br />
-  <sub>A supermassive black hole sits at the center of this profile. Time dilation in effect: 1 hour here = 7 years of shipping code.</sub>
-</p>
+I build products **end to end** - interface, backend, database, authentication, deployment, and polish.
 
 ## Constellation of Highlights
 
@@ -52,11 +43,11 @@ I build products **end to end** â€” interface, backend, database, authentic
 
 | Mission | Objective | Propulsion | Status |
 |---|---|---|---|
-| **Qanoon** | AI legal research assistant for Pakistani law with cited statute-backed answers | Next.js, RAG, Postgres, Vector Search, Vercel | [In Orbit](https://legal-rag-assistant-two.vercel.app/) |
-| **2D Floor Plan to 3D** | Converts residential floor plans into interactive 3D walkthrough visualizations | OpenCV, CNNs, 3D Visualization | [In Orbit](https://fypwebsite-black.vercel.app/) |
-| **TradeRank** | Marketing platform for local service businesses with dashboards and lead flows | Next.js, Tailwind CSS, SEO | On Launchpad |
-| **Unity Horror Adventure** | Narrative 3D horror game with AI-based enemy behavior | Unity, C# | On Launchpad |
-| **2D Coloring Game** | Interactive Unity coloring game | Unity, C# | [In Orbit](https://play.unity.com/en/user/a9058027-8fd6-4b7d-ab87-1042f4cb8055) |
+| **Qanoon** | AI legal research assistant for Pakistani law with cited statute-backed answers | Next.js, RAG, Postgres, Vector Search, Vercel | [Live](https://legal-rag-assistant-two.vercel.app/) |
+| **2D Floor Plan to 3D** | Converts residential floor plans into interactive 3D walkthrough visualizations | OpenCV, CNNs, 3D Visualization | [Live](https://fypwebsite-black.vercel.app/) |
+| **TradeRank** | Marketing platform for local service businesses with dashboards and lead flows | Next.js, Tailwind CSS, SEO | In development |
+| **Unity Horror Adventure** | Narrative 3D horror game with AI-based enemy behavior | Unity, C# | In development |
+| **2D Coloring Game** | Interactive Unity coloring game | Unity, C# | [Live](https://play.unity.com/en/user/a9058027-8fd6-4b7d-ab87-1042f4cb8055) |
 
 <details>
 <summary><strong>Open Mission Control Console</strong></summary>
@@ -64,48 +55,21 @@ I build products **end to end** â€” interface, backend, database, authentic
 <br />
 
 ```bash
-$ ssh faizan@deep-space-station
-> establishing uplink........... [OK]
-> booting profile.os v2.0 ...... [OK]
+$ ssh faizan@dev-station
+> establishing uplink... [OK]
+> booting profile... [OK]
 
-  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-  â”‚  PILOT    : Faizan Aslam                    â”‚
-  â”‚  STACK    : Next.js | RAG | Unity | OpenCV  â”‚
-  â”‚  DATABASE : Postgres + pgvector             â”‚
-  â”‚  FOCUS    : useful products, clean systems  â”‚
-  â”‚  STATUS   : BUILDING                        â”‚
-  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+PILOT    : Faizan Aslam
+STACK    : Next.js | RAG | Unity | OpenCV
+DATABASE : Postgres + pgvector
+FOCUS    : useful products, clean systems
+STATUS   : BUILDING
 
-> current trajectory:
-  âœ¦ AI legal research tools for Pakistani law
-  âœ¦ 2D floor plan â†’ 3D visualization workflows
-  âœ¦ SEO-focused business websites and dashboards
-  âœ¦ Unity gameplay systems with AI-driven behavior
-
-> signal strength: â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 100%
-```
-
-</details>
-
-<details>
-<summary><strong>Decode Gravitational Telemetry</strong></summary>
-
-<br />
-
-```bash
-$ probe --target GARGANTUA --scan deep
-
-  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-  â”‚  OBJECT     : Supermassive Black Hole        â”‚
-  â”‚  MASS       : 100M solar masses              â”‚
-  â”‚  SPIN       : 99.8% speed of light           â”‚
-  â”‚  LENSING    : extreme â€” light bends to view  â”‚
-  â”‚  SINGULARITY: where all my TODOs collapse    â”‚
-  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-
-> gravitational pull detected on: bugs, scope creep, merge conflicts
-> nothing escapes the event horizon... except shipped features
-> "It's not possible." â€” "No. It's necessary."
+current focus:
+- AI legal research tools for Pakistani law
+- 2D floor plan -> 3D visualization workflows
+- SEO-focused business websites and dashboards
+- Unity gameplay systems with AI-driven behavior
 ```
 
 </details>
@@ -115,12 +79,12 @@ $ probe --target GARGANTUA --scan deep
 
 <br />
 
-**Full-Stack Developer â€” ARK TechnoSolution** `2024 â€“ 2025`
+**Full-Stack Developer - ARK TechnoSolution** `2024 - 2025`
 - Built and deployed full-stack web applications from frontend to database
 - Integrated APIs, authentication systems, and production-ready deployment flows
 - Worked with clients and design teams across the software development lifecycle
 
-**Business Websites & E-Commerce** `2025 â€“ 2026`
+**Business Websites & E-Commerce** `2025 - 2026`
 - PanjtanPak Developers: production deployment and hosting management
 - Dreams and Diamonds: jewelry e-commerce platform under active development
 
@@ -131,7 +95,7 @@ $ probe --target GARGANTUA --scan deep
 
 <br />
 
-RAG â€¢ Next.js â€¢ React â€¢ Supabase â€¢ Firebase â€¢ Postgres â€¢ OpenCV â€¢ Unity â€¢ C# â€¢ AI-assisted development â€¢ turning raw ideas into deployed products
+RAG | Next.js | React | Supabase | Firebase | Postgres | OpenCV | Unity | C# | AI-assisted development | turning raw ideas into deployed products
 
 </details>
 
@@ -171,7 +135,7 @@ RAG â€¢ Next.js â€¢ React â€¢ Supabase â€¢ Firebase â€¢ Post
 </p>
 
 
-## The Cosmic Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FaizanAslam10/FaizanAslam10/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
@@ -183,14 +147,15 @@ RAG â€¢ Next.js â€¢ React â€¢ Supabase â€¢ Firebase â€¢ Post
 
 <p align="center">
   <a href="https://linkedin.com/in/faizan-aslam10"><img src="https://img.shields.io/badge/LinkedIn-Send%20Signal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/FaizanAslam10"><img src="https://img.shields.io/badge/GitHub-Follow%20Orbit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/FaizanAslam10"><img src="https://img.shields.io/badge/GitHub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:m.faizanaslam10@gmail.com"><img src="https://img.shields.io/badge/Email-Transmit-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <em>From Earth with code â€” if a mission caught your eye, drop a star. It helps the constellation grow.</em>
+  <em>If a project caught your eye, a star is appreciated.</em>
 </p>
 
 <!-- GALACTIC FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7b2ff7,30:3d2c8d,65:1b1b4d,100:0b0b2a&section=footer" alt="footer wave" />
+
 
