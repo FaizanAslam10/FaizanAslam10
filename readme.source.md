@@ -23,13 +23,28 @@
       from { transform: translateX(0px) translateY(0px); opacity: .55; }
       to { transform: translateX(90px) translateY(-18px); opacity: .9; }
     }
+    @keyframes spinSlow {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    @keyframes spinReverse {
+      from { transform: rotate(360deg); }
+      to { transform: rotate(0deg); }
+    }
     @keyframes pulseCore {
       0%, 100% { opacity: .30; transform: scale(1); }
       50% { opacity: .55; transform: scale(1.08); }
     }
+    @keyframes titleGlow {
+      0%, 100% { opacity: .72; }
+      50% { opacity: 1; }
+    }
     #starLayerA { animation: driftA 18s linear infinite alternate; transform-origin: 600px 210px; }
     #starLayerB { animation: driftB 28s linear infinite alternate; transform-origin: 600px 210px; }
+    #orbitA { animation: spinSlow 26s linear infinite; transform-origin: 600px 210px; }
+    #orbitB { animation: spinReverse 38s linear infinite; transform-origin: 600px 210px; }
     #coreGlow { animation: pulseCore 4s ease-in-out infinite; transform-origin: 600px 210px; }
+    #titleHalo { animation: titleGlow 3.5s ease-in-out infinite; }
   `}</style>
 
   <svg width="1200" height="420" viewBox="0 0 1200 420" style={{ position: 'absolute', left: 0, top: 0 }}>
@@ -42,6 +57,16 @@
     </defs>
     <rect width="1200" height="420" fill="#020617" />
     <circle id="coreGlow" cx="600" cy="210" r="260" fill="url(#heroGlow)" />
+    <g id="orbitA" opacity=".8">
+      <ellipse cx="600" cy="210" rx="450" ry="106" fill="none" stroke="#2563eb" strokeWidth="1.5" strokeDasharray="10 20" />
+      <circle cx="150" cy="210" r="5" fill="#38bdf8" />
+      <circle cx="1050" cy="210" r="3" fill="#a78bfa" />
+    </g>
+    <g id="orbitB" opacity=".65">
+      <ellipse cx="600" cy="210" rx="330" ry="78" fill="none" stroke="#a78bfa" strokeWidth="1" strokeDasharray="4 16" />
+      <circle cx="270" cy="210" r="4" fill="#f8fafc" />
+      <circle cx="930" cy="210" r="4" fill="#60a5fa" />
+    </g>
     <g id="starLayerA">
       <circle cx="1170" cy="16" r="1" fill="#ffffff" fillOpacity="0.70" />
       <circle cx="422" cy="236" r="1" fill="#93c5fd" fillOpacity="0.55" />
@@ -196,6 +221,44 @@
       <circle cx="4" cy="199" r="1" fill="#60a5fa" fillOpacity="0.70" />
       <circle cx="866" cy="356" r="3" fill="#a78bfa" fillOpacity="0.90" />
     </g>
+    <g>
+      <line id="meteor0" x1="397" y1="186" x2="492" y2="214" stroke="#93c5fd" strokeWidth="2" strokeLinecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.95;0" dur="4.6s" begin="1.2s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="230 48" dur="4.6s" begin="1.2s" repeatCount="indefinite" />
+      </line>
+      <line id="meteor1" x1="115" y1="169" x2="245" y2="197" stroke="#93c5fd" strokeWidth="2" strokeLinecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.95;0" dur="4.6s" begin="0.9s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="230 48" dur="4.6s" begin="0.9s" repeatCount="indefinite" />
+      </line>
+      <line id="meteor2" x1="1018" y1="276" x2="1088" y2="304" stroke="#93c5fd" strokeWidth="2" strokeLinecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.95;0" dur="5.4s" begin="0.1s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="230 48" dur="5.4s" begin="0.1s" repeatCount="indefinite" />
+      </line>
+      <line id="meteor3" x1="898" y1="108" x2="992" y2="136" stroke="#93c5fd" strokeWidth="2" strokeLinecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.95;0" dur="6.2s" begin="1.1s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="230 48" dur="6.2s" begin="1.1s" repeatCount="indefinite" />
+      </line>
+      <line id="meteor4" x1="558" y1="184" x2="643" y2="212" stroke="#93c5fd" strokeWidth="2" strokeLinecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.95;0" dur="3.8s" begin="3.5s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="230 48" dur="3.8s" begin="3.5s" repeatCount="indefinite" />
+      </line>
+      <line id="meteor5" x1="413" y1="293" x2="543" y2="321" stroke="#93c5fd" strokeWidth="2" strokeLinecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.95;0" dur="4.6s" begin="1.4s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="230 48" dur="4.6s" begin="1.4s" repeatCount="indefinite" />
+      </line>
+      <line id="meteor6" x1="272" y1="56" x2="352" y2="84" stroke="#93c5fd" strokeWidth="2" strokeLinecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.95;0" dur="4.6s" begin="3.5s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="230 48" dur="4.6s" begin="3.5s" repeatCount="indefinite" />
+      </line>
+      <line id="meteor7" x1="776" y1="324" x2="914" y2="352" stroke="#93c5fd" strokeWidth="2" strokeLinecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.95;0" dur="3.8s" begin="0.6s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="230 48" dur="3.8s" begin="0.6s" repeatCount="indefinite" />
+      </line>
+      <line id="meteor8" x1="314" y1="188" x2="395" y2="216" stroke="#93c5fd" strokeWidth="2" strokeLinecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.95;0" dur="3.8s" begin="3.6s" repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="230 48" dur="3.8s" begin="3.6s" repeatCount="indefinite" />
+      </line>
+    </g>
   </svg>
 
   <div
@@ -212,6 +275,7 @@
       textAlign: 'center',
     }}
   >
+    <div id="titleHalo" style={{ position: 'absolute', width: 700, height: 126, borderRadius: 999, background: 'radial-gradient(circle, rgba(59, 130, 246, .24), rgba(124, 58, 237, .10), rgba(2, 6, 23, 0))' }} />
     <div style={{ fontSize: 72, fontWeight: 800, color: '#f8fafc', lineHeight: 1.08 }}>
       Faizan Aslam
     </div>
@@ -351,6 +415,156 @@ I build products **end to end** - interface, backend, database, authentication, 
 - Built a 2D floor plan to 3D visualization workflow using OpenCV and CNN-based recognition
 - Shipped full-stack business websites with frontend, backend, database, auth, and deployment
 - Built Unity projects including 2D games and ongoing 3D AI-driven gameplay systems
+
+```aura width=1200 height=310
+<div
+  style={{
+    width: '100%',
+    height: '100%',
+    display: 'flex',
+    position: 'relative',
+    overflow: 'hidden',
+    background: '#030712',
+    borderRadius: 22,
+    fontFamily: 'Inter',
+  }}
+>
+  <style>{`
+    @keyframes orbitDash {
+      from { stroke-dashoffset: 0; }
+      to { stroke-dashoffset: -220; }
+    }
+    @keyframes scanLine {
+      0% { transform: translateX(-260px); opacity: 0; }
+      20% { opacity: .95; }
+      100% { transform: translateX(1240px); opacity: 0; }
+    }
+    @keyframes nodePulse {
+      0%, 100% { opacity: .45; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.4); }
+    }
+    #missionOrbit { animation: orbitDash 10s linear infinite; }
+    #missionScan { animation: scanLine 4.6s ease-in-out infinite; }
+    #nodeA { animation: nodePulse 2.4s ease-in-out infinite; transform-origin: 282px 154px; }
+    #nodeB { animation: nodePulse 3.0s ease-in-out infinite; transform-origin: 600px 74px; }
+    #nodeC { animation: nodePulse 2.7s ease-in-out infinite; transform-origin: 920px 154px; }
+  `}</style>
+  <svg width="1200" height="310" viewBox="0 0 1200 310" style={{ position: 'absolute', left: 0, top: 0 }}>
+    <defs>
+      <radialGradient id="consoleGlow" cx="50%" cy="50%" r="65%">
+        <stop offset="0%" stopColor="#0ea5e9" stopOpacity=".26" />
+        <stop offset="55%" stopColor="#7c3aed" stopOpacity=".12" />
+        <stop offset="100%" stopColor="#030712" stopOpacity="0" />
+      </radialGradient>
+      <linearGradient id="scanGrad" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stopColor="#38bdf8" stopOpacity="0" />
+        <stop offset="50%" stopColor="#38bdf8" stopOpacity=".95" />
+        <stop offset="100%" stopColor="#38bdf8" stopOpacity="0" />
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="310" fill="#030712" />
+    <circle cx="600" cy="154" r="320" fill="url(#consoleGlow)" />
+    <g opacity=".55">
+      <circle cx="179" cy="207" r="1" fill="#ffffff" fillOpacity="0.90" />
+      <circle cx="195" cy="170" r="1" fill="#ffffff" fillOpacity="0.70" />
+      <circle cx="43" cy="245" r="1" fill="#ffffff" fillOpacity="0.90" />
+      <circle cx="366" cy="299" r="2" fill="#93c5fd" fillOpacity="0.45" />
+      <circle cx="289" cy="259" r="2" fill="#60a5fa" fillOpacity="0.45" />
+      <circle cx="836" cy="136" r="2" fill="#60a5fa" fillOpacity="0.35" />
+      <circle cx="695" cy="279" r="2" fill="#ffffff" fillOpacity="0.45" />
+      <circle cx="107" cy="139" r="1" fill="#a78bfa" fillOpacity="0.70" />
+      <circle cx="879" cy="308" r="1" fill="#a78bfa" fillOpacity="0.90" />
+      <circle cx="225" cy="259" r="1" fill="#ffffff" fillOpacity="0.55" />
+      <circle cx="1070" cy="164" r="1" fill="#93c5fd" fillOpacity="0.55" />
+      <circle cx="857" cy="108" r="1" fill="#a78bfa" fillOpacity="0.45" />
+      <circle cx="529" cy="129" r="2" fill="#93c5fd" fillOpacity="0.55" />
+      <circle cx="1070" cy="21" r="1" fill="#ffffff" fillOpacity="0.55" />
+      <circle cx="936" cy="5" r="1" fill="#ffffff" fillOpacity="0.70" />
+      <circle cx="211" cy="263" r="1" fill="#ffffff" fillOpacity="0.90" />
+      <circle cx="556" cy="282" r="1" fill="#a78bfa" fillOpacity="0.90" />
+      <circle cx="578" cy="102" r="1" fill="#93c5fd" fillOpacity="0.35" />
+      <circle cx="1168" cy="43" r="2" fill="#ffffff" fillOpacity="0.90" />
+      <circle cx="537" cy="219" r="1" fill="#ffffff" fillOpacity="0.55" />
+      <circle cx="836" cy="64" r="1" fill="#a78bfa" fillOpacity="0.45" />
+      <circle cx="406" cy="128" r="1" fill="#a78bfa" fillOpacity="0.45" />
+      <circle cx="139" cy="49" r="1" fill="#a78bfa" fillOpacity="0.45" />
+      <circle cx="283" cy="270" r="2" fill="#ffffff" fillOpacity="0.70" />
+      <circle cx="933" cy="263" r="1" fill="#a78bfa" fillOpacity="0.90" />
+      <circle cx="962" cy="244" r="2" fill="#93c5fd" fillOpacity="0.70" />
+      <circle cx="1075" cy="247" r="1" fill="#60a5fa" fillOpacity="0.55" />
+      <circle cx="167" cy="228" r="1" fill="#ffffff" fillOpacity="0.55" />
+      <circle cx="93" cy="216" r="2" fill="#ffffff" fillOpacity="0.55" />
+      <circle cx="307" cy="299" r="1" fill="#ffffff" fillOpacity="0.70" />
+      <circle cx="385" cy="156" r="2" fill="#ffffff" fillOpacity="0.90" />
+      <circle cx="158" cy="270" r="2" fill="#93c5fd" fillOpacity="0.35" />
+      <circle cx="12" cy="127" r="1" fill="#60a5fa" fillOpacity="0.45" />
+      <circle cx="74" cy="63" r="2" fill="#a78bfa" fillOpacity="0.70" />
+      <circle cx="1011" cy="125" r="1" fill="#a78bfa" fillOpacity="0.35" />
+      <circle cx="29" cy="234" r="2" fill="#93c5fd" fillOpacity="0.45" />
+      <circle cx="946" cy="290" r="1" fill="#60a5fa" fillOpacity="0.35" />
+      <circle cx="289" cy="287" r="2" fill="#60a5fa" fillOpacity="0.70" />
+      <circle cx="172" cy="225" r="2" fill="#60a5fa" fillOpacity="0.90" />
+      <circle cx="761" cy="217" r="1" fill="#60a5fa" fillOpacity="0.70" />
+      <circle cx="833" cy="19" r="1" fill="#a78bfa" fillOpacity="0.45" />
+      <circle cx="369" cy="182" r="1" fill="#93c5fd" fillOpacity="0.55" />
+      <circle cx="836" cy="303" r="2" fill="#93c5fd" fillOpacity="0.70" />
+      <circle cx="1002" cy="72" r="2" fill="#60a5fa" fillOpacity="0.90" />
+      <circle cx="183" cy="251" r="2" fill="#93c5fd" fillOpacity="0.35" />
+      <circle cx="821" cy="282" r="1" fill="#93c5fd" fillOpacity="0.35" />
+      <circle cx="990" cy="100" r="1" fill="#93c5fd" fillOpacity="0.90" />
+      <circle cx="318" cy="6" r="1" fill="#a78bfa" fillOpacity="0.90" />
+      <circle cx="263" cy="259" r="1" fill="#93c5fd" fillOpacity="0.45" />
+      <circle cx="211" cy="285" r="2" fill="#a78bfa" fillOpacity="0.45" />
+      <circle cx="546" cy="7" r="2" fill="#93c5fd" fillOpacity="0.70" />
+      <circle cx="1093" cy="159" r="2" fill="#ffffff" fillOpacity="0.45" />
+      <circle cx="702" cy="248" r="2" fill="#a78bfa" fillOpacity="0.90" />
+      <circle cx="338" cy="160" r="2" fill="#a78bfa" fillOpacity="0.55" />
+      <circle cx="858" cy="281" r="1" fill="#93c5fd" fillOpacity="0.35" />
+      <circle cx="1129" cy="158" r="2" fill="#a78bfa" fillOpacity="0.55" />
+      <circle cx="469" cy="63" r="1" fill="#a78bfa" fillOpacity="0.45" />
+      <circle cx="215" cy="78" r="1" fill="#60a5fa" fillOpacity="0.90" />
+      <circle cx="1043" cy="282" r="1" fill="#ffffff" fillOpacity="0.90" />
+      <circle cx="998" cy="292" r="1" fill="#60a5fa" fillOpacity="0.45" />
+      <circle cx="492" cy="146" r="1" fill="#93c5fd" fillOpacity="0.35" />
+      <circle cx="1015" cy="193" r="1" fill="#ffffff" fillOpacity="0.35" />
+      <circle cx="131" cy="165" r="1" fill="#ffffff" fillOpacity="0.35" />
+      <circle cx="891" cy="197" r="2" fill="#ffffff" fillOpacity="0.90" />
+      <circle cx="801" cy="181" r="1" fill="#a78bfa" fillOpacity="0.90" />
+      <circle cx="915" cy="68" r="2" fill="#93c5fd" fillOpacity="0.55" />
+      <circle cx="28" cy="152" r="1" fill="#60a5fa" fillOpacity="0.55" />
+      <circle cx="937" cy="127" r="1" fill="#60a5fa" fillOpacity="0.35" />
+      <circle cx="498" cy="86" r="1" fill="#ffffff" fillOpacity="0.90" />
+      <circle cx="1107" cy="284" r="1" fill="#60a5fa" fillOpacity="0.35" />
+      <circle cx="758" cy="5" r="1" fill="#a78bfa" fillOpacity="0.35" />
+      <circle cx="154" cy="195" r="1" fill="#ffffff" fillOpacity="0.55" />
+      <circle cx="907" cy="76" r="1" fill="#60a5fa" fillOpacity="0.70" />
+      <circle cx="694" cy="193" r="1" fill="#a78bfa" fillOpacity="0.35" />
+      <circle cx="908" cy="307" r="2" fill="#93c5fd" fillOpacity="0.35" />
+      <circle cx="637" cy="52" r="2" fill="#60a5fa" fillOpacity="0.45" />
+      <circle cx="1012" cy="206" r="2" fill="#60a5fa" fillOpacity="0.55" />
+      <circle cx="371" cy="253" r="1" fill="#a78bfa" fillOpacity="0.45" />
+      <circle cx="402" cy="235" r="1" fill="#93c5fd" fillOpacity="0.70" />
+      <circle cx="150" cy="209" r="1" fill="#ffffff" fillOpacity="0.35" />
+    </g>
+    <line id="missionScan" x1="0" y1="58" x2="260" y2="58" stroke="url(#scanGrad)" strokeWidth="2" />
+    <path id="missionOrbit" d="M 170 154 C 340 18, 860 18, 1030 154 C 860 290, 340 290, 170 154 Z" fill="none" stroke="#38bdf8" strokeWidth="2" strokeDasharray="16 14" opacity=".85" />
+    <path d="M 280 154 C 410 80, 790 80, 920 154" fill="none" stroke="#7c3aed" strokeWidth="2" strokeDasharray="6 13" opacity=".8" />
+    <circle id="nodeA" cx="282" cy="154" r="9" fill="#38bdf8" />
+    <circle id="nodeB" cx="600" cy="74" r="9" fill="#a78bfa" />
+    <circle id="nodeC" cx="920" cy="154" r="9" fill="#60a5fa" />
+  </svg>
+  <div style={{ position: 'absolute', left: 60, top: 44, width: 390, display: 'flex', flexDirection: 'column' }}>
+    <div style={{ color: '#38bdf8', fontSize: 18, fontWeight: 800, letterSpacing: 2 }}>MISSION CONTROL</div>
+    <div style={{ color: '#f8fafc', fontSize: 38, fontWeight: 800, marginTop: 12 }}>Building Useful Systems</div>
+    <div style={{ color: '#cbd5e1', fontSize: 19, lineHeight: 1.45, marginTop: 14 }}>AI apps, production websites, 3D experiences, and data-backed tools from idea to deployment.</div>
+  </div>
+  <div style={{ position: 'absolute', right: 58, top: 54, width: 328, display: 'flex', flexDirection: 'column', gap: 12 }}>
+    <div style={{ display: 'flex', justifyContent: 'space-between', padding: '13px 16px', borderRadius: 16, background: 'rgba(15, 23, 42, .72)', border: '1px solid rgba(56, 189, 248, .45)', color: '#e2e8f0', fontSize: 18 }}><span>Frontend</span><strong>Next.js</strong></div>
+    <div style={{ display: 'flex', justifyContent: 'space-between', padding: '13px 16px', borderRadius: 16, background: 'rgba(15, 23, 42, .72)', border: '1px solid rgba(167, 139, 250, .45)', color: '#e2e8f0', fontSize: 18 }}><span>AI Layer</span><strong>RAG / OpenCV</strong></div>
+    <div style={{ display: 'flex', justifyContent: 'space-between', padding: '13px 16px', borderRadius: 16, background: 'rgba(15, 23, 42, .72)', border: '1px solid rgba(96, 165, 250, .45)', color: '#e2e8f0', fontSize: 18 }}><span>3D</span><strong>Unity</strong></div>
+  </div>
+</div>
+```
 
 ## Missions Launched
 
