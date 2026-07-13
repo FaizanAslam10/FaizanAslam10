@@ -297,7 +297,7 @@
 ```
 
 <p align="center">
-  <a href="https://github.com/FaizanAslam10"><img src="assets/contact-github.svg" width="286" alt="GitHub - FaizanAslam10" /></a><a href="https://linkedin.com/in/faizan-aslam10"><img src="assets/contact-linkedin.svg" width="286" alt="LinkedIn - faizan-aslam10" /></a><a href="mailto:m.faizanaslam10@gmail.com"><img src="assets/contact-email.svg" width="286" alt="Email - m.faizanaslam10@gmail.com" /></a><img src="assets/contact-views.svg" width="286" alt="Visitor telemetry" />
+  <a href="https://github.com/FaizanAslam10"><img src="assets/contact-github.svg" width="240" alt="GitHub - FaizanAslam10" /></a><a href="https://linkedin.com/in/faizan-aslam10"><img src="assets/contact-linkedin.svg" width="240" alt="LinkedIn - faizan-aslam10" /></a><a href="mailto:m.faizanaslam10@gmail.com"><img src="assets/contact-email.svg" width="240" alt="Email - m.faizanaslam10@gmail.com" /></a><img src="assets/contact-views.svg" width="240" alt="Visitor telemetry" />
 </p>
 
 ```aura width=1200 height=84
@@ -855,7 +855,7 @@ RAG | Next.js | React | Supabase | Firebase | Postgres | OpenCV | Unity | C# | A
 ## Establish Contact
 
 <p align="center">
-  <a href="https://github.com/FaizanAslam10"><img src="assets/contact-github.svg" width="286" alt="GitHub - FaizanAslam10" /></a><a href="https://linkedin.com/in/faizan-aslam10"><img src="assets/contact-linkedin.svg" width="286" alt="LinkedIn - faizan-aslam10" /></a><a href="mailto:m.faizanaslam10@gmail.com"><img src="assets/contact-email.svg" width="286" alt="Email - m.faizanaslam10@gmail.com" /></a><img src="assets/contact-views.svg" width="286" alt="Visitor telemetry" />
+  <a href="https://github.com/FaizanAslam10"><img src="assets/contact-github.svg" width="240" alt="GitHub - FaizanAslam10" /></a><a href="https://linkedin.com/in/faizan-aslam10"><img src="assets/contact-linkedin.svg" width="240" alt="LinkedIn - faizan-aslam10" /></a><a href="mailto:m.faizanaslam10@gmail.com"><img src="assets/contact-email.svg" width="240" alt="Email - m.faizanaslam10@gmail.com" /></a><img src="assets/contact-views.svg" width="240" alt="Visitor telemetry" />
 </p>
 
 <p align="center">
