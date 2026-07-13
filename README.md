@@ -1,39 +1,46 @@
-<h1 align="center">Faizan Aslam</h1>
+<!-- GALACTIC HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0b2a,35:1b1b4d,70:3d2c8d,100:7b2ff7&text=FAIZAN%20ASLAM&fontColor=e6e6fa&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Applications%20%E2%80%A2%20Unity%203D&descAlignY=55&descSize=18&animation=fadeIn" alt="Faizan Aslam banner" />
 
 <p align="center">
-  <strong>Full-Stack Developer | AI Applications | Unity 3D</strong>
-</p>
-
-<p align="center">
-  I build production-ready web platforms, AI-powered tools, and interactive 3D experiences.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+Applications+Builder;RAG+%7C+OpenCV+%7C+Next.js;Unity+3D+Game+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=7B2FF7&center=true&vCenter=true&width=700&lines=Launching+production-ready+web+platforms;AI+%2B+RAG+pipelines+grounded+in+real+data;Next.js+%7C+OpenCV+%7C+Postgres+%7C+pgvector;Unity+3D+worlds+with+AI-driven+behavior;Turning+raw+ideas+into+deployed+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/FaizanAslam10">
-    <img src="https://img.shields.io/badge/GitHub-FaizanAslam10-181717?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-FaizanAslam10-0b0b2a?style=for-the-badge&logo=github&logoColor=white&labelColor=1b1b4d" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/faizan-aslam10">
-    <img src="https://img.shields.io/badge/LinkedIn-faizan--aslam10-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-faizan--aslam10-0b0b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1b1b4d" alt="LinkedIn" />
   </a>
   <a href="mailto:m.faizanaslam10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-m.faizanaslam10%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Mission%20Control-0b0b2a?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=1b1b4d" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FaizanAslam10&style=flat-square&color=2F81F7" alt="Profile views" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FaizanAslam10&style=for-the-badge&color=7b2ff7&label=VISITORS+FROM+EARTH" alt="Profile views" />
+</p>
 
-## About
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-I'm a Computer Science student and Full-Stack Developer from Lahore, Pakistan. My work focuses on practical software: AI legal research, RAG pipelines, business websites, e-commerce systems, computer vision tools, and Unity games.
+## Transmission: About Me
 
-I like building products end to end: interface, backend, database, authentication, deployment, and polish.
+> Incoming signal from **Lahore, Pakistan**
 
-## Highlights
+I'm a Computer Science student and Full-Stack Developer building software that actually ships: AI legal research, RAG pipelines, business websites, e-commerce systems, computer vision tools, and Unity games.
+
+I build products **end to end** — interface, backend, database, authentication, deployment, and polish. From the first commit to the final orbit.
+
+<p align="center">
+  <img width="90%" src="gargantua.png" alt="Gargantua black hole with glowing accretion disk" title="Click at your own risk — nothing escapes the event horizon" />
+</p>
+
+<p align="center">
+  <em>"Do not go gentle into that good night. Rage, rage against the dying of the light."</em><br />
+  <sub>A supermassive black hole sits at the center of this profile. Time dilation in effect: 1 hour here = 7 years of shipping code.</sub>
+</p>
+
+## Constellation of Highlights
 
 - Built **Qanoon**, an AI legal research assistant grounded in **1,000+ Pakistani statutes**
 - Implemented RAG pipelines with vector embeddings, semantic search, and Postgres vector storage
@@ -41,31 +48,98 @@ I like building products end to end: interface, backend, database, authenticatio
 - Shipped full-stack business websites with frontend, backend, database, auth, and deployment
 - Built Unity projects including 2D games and ongoing 3D AI-driven gameplay systems
 
-## Selected Work
+## Missions Launched
 
-| Project | What it does | Stack | Link |
+| Mission | Objective | Propulsion | Status |
 |---|---|---|---|
-| **Qanoon** | AI legal research assistant for Pakistani law with cited statute-backed answers | Next.js, RAG, Postgres, Vector Search, Vercel | [Live](https://legal-rag-assistant-two.vercel.app/) |
-| **2D Floor Plan to 3D** | Converts residential floor plans into interactive 3D walkthrough visualizations | OpenCV, CNNs, 3D Visualization | [Live](https://fypwebsite-black.vercel.app/) |
-| **TradeRank** | Marketing platform for local service businesses with dashboards and lead flows | Next.js, Tailwind CSS, SEO | In development |
-| **Unity Horror Adventure** | Narrative 3D horror game with AI-based enemy behavior | Unity, C# | In development |
-| **2D Coloring Game** | Interactive Unity coloring game | Unity, C# | [Unity](https://play.unity.com/en/user/a9058027-8fd6-4b7d-ab87-1042f4cb8055) |
+| **Qanoon** | AI legal research assistant for Pakistani law with cited statute-backed answers | Next.js, RAG, Postgres, Vector Search, Vercel | [In Orbit](https://legal-rag-assistant-two.vercel.app/) |
+| **2D Floor Plan to 3D** | Converts residential floor plans into interactive 3D walkthrough visualizations | OpenCV, CNNs, 3D Visualization | [In Orbit](https://fypwebsite-black.vercel.app/) |
+| **TradeRank** | Marketing platform for local service businesses with dashboards and lead flows | Next.js, Tailwind CSS, SEO | On Launchpad |
+| **Unity Horror Adventure** | Narrative 3D horror game with AI-based enemy behavior | Unity, C# | On Launchpad |
+| **2D Coloring Game** | Interactive Unity coloring game | Unity, C# | [In Orbit](https://play.unity.com/en/user/a9058027-8fd6-4b7d-ab87-1042f4cb8055) |
 
-## Core Skills
+<details>
+<summary><strong>Open Mission Control Console</strong></summary>
 
-**Frontend:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, PHP, REST APIs, Authentication, Server-side logic  
-**Databases:** Postgres, Supabase, Firebase, MySQL, SQL, pgvector  
-**AI / ML:** RAG, Vector Search, Embeddings, CNNs, OpenCV, Prompt Engineering  
-**Game Dev:** Unity, C#, 2D/3D gameplay systems, AI behavior  
-**Tools:** Git, GitHub, Vercel, Android Studio, Shopify, Canva
+<br />
 
-## Ask Me About
+```bash
+$ ssh faizan@deep-space-station
+> establishing uplink........... [OK]
+> booting profile.os v2.0 ...... [OK]
 
-RAG, Next.js, React, Supabase, Firebase, Postgres, OpenCV, Unity, C#, AI-assisted development, and turning raw ideas into deployed products.
+  ┌─────────────────────────────────────────────┐
+  │  PILOT    : Faizan Aslam                    │
+  │  STACK    : Next.js | RAG | Unity | OpenCV  │
+  │  DATABASE : Postgres + pgvector             │
+  │  FOCUS    : useful products, clean systems  │
+  │  STATUS   : BUILDING                        │
+  └─────────────────────────────────────────────┘
 
-## Tech Stack
+> current trajectory:
+  ✦ AI legal research tools for Pakistani law
+  ✦ 2D floor plan → 3D visualization workflows
+  ✦ SEO-focused business websites and dashboards
+  ✦ Unity gameplay systems with AI-driven behavior
 
+> signal strength: ████████████████████ 100%
+```
+
+</details>
+
+<details>
+<summary><strong>Decode Gravitational Telemetry</strong></summary>
+
+<br />
+
+```bash
+$ probe --target GARGANTUA --scan deep
+
+  ┌──────────────────────────────────────────────┐
+  │  OBJECT     : Supermassive Black Hole        │
+  │  MASS       : 100M solar masses              │
+  │  SPIN       : 99.8% speed of light           │
+  │  LENSING    : extreme — light bends to view  │
+  │  SINGULARITY: where all my TODOs collapse    │
+  └──────────────────────────────────────────────┘
+
+> gravitational pull detected on: bugs, scope creep, merge conflicts
+> nothing escapes the event horizon... except shipped features
+> "It's not possible." — "No. It's necessary."
+```
+
+</details>
+
+<details>
+<summary><strong>Crew Log: Experience</strong></summary>
+
+<br />
+
+**Full-Stack Developer — ARK TechnoSolution** `2024 – 2025`
+- Built and deployed full-stack web applications from frontend to database
+- Integrated APIs, authentication systems, and production-ready deployment flows
+- Worked with clients and design teams across the software development lifecycle
+
+**Business Websites & E-Commerce** `2025 – 2026`
+- PanjtanPak Developers: production deployment and hosting management
+- Dreams and Diamonds: jewelry e-commerce platform under active development
+
+</details>
+
+<details>
+<summary><strong>Ask Me About (open comms channel)</strong></summary>
+
+<br />
+
+RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • Unity • C# • AI-assisted development • turning raw ideas into deployed products
+
+</details>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+
+## The Tech Nebula
+
+<h4>Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -76,6 +150,7 @@ RAG, Next.js, React, Supabase, Firebase, Postgres, OpenCV, Unity, C#, AI-assiste
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
+<h4>Frameworks & Engines</h4>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -85,6 +160,7 @@ RAG, Next.js, React, Supabase, Firebase, Postgres, OpenCV, Unity, C#, AI-assiste
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
+<h4>Data & Deployment</h4>
 <p>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -94,53 +170,40 @@ RAG, Next.js, React, Supabase, Firebase, Postgres, OpenCV, Unity, C#, AI-assiste
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Experience
+## Telemetry: GitHub Stats
 
-**Full-Stack Developer, ARK TechnoSolution**  
-2024 - 2025
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaizanAslam10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b2a&title_color=7b2ff7&icon_color=61dafb&text_color=e6e6fa&ring_color=7b2ff7" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAslam10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b2a&title_color=7b2ff7&text_color=e6e6fa" alt="Top Languages" />
+</p>
 
-- Built and deployed full-stack web applications from frontend to database
-- Integrated APIs, authentication systems, and production-ready deployment flows
-- Worked with clients and design teams across the software development lifecycle
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FaizanAslam10&theme=tokyonight&hide_border=true&background=0b0b2a&ring=7b2ff7&fire=61dafb&currStreakLabel=e6e6fa&sideLabels=e6e6fa&currStreakNum=ffffff&sideNums=ffffff&dates=8888aa" alt="GitHub Streak" />
+</p>
 
-**Business Websites and E-Commerce**  
-2025 - 2026
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanAslam10&bg_color=0b0b2a&color=e6e6fa&line=7b2ff7&point=61dafb&area=true&area_color=1b1b4d&hide_border=true&custom_title=Contribution%20Flight%20Path" alt="Contribution graph" />
+</p>
 
-- PanjtanPak Developers: production deployment and hosting management
-- Dreams and Diamonds: jewelry e-commerce platform under active development
+## The Cosmic Snake
 
-## Currently Building
-
-- AI legal research tools for Pakistani law
-- 2D floor plan to 3D visualization workflows
-- SEO-focused business websites and dashboards
-- Unity gameplay systems with AI-driven behavior
-
-## GitHub Focus
-
-- Building practical AI and full-stack projects
-- Keeping repositories documented with live demos, screenshots, and setup notes
-- Improving deployed projects through real updates, cleanup, and performance work
-- Publishing work that shows product thinking, not just code
-
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/FaizanAslam10/FaizanAslam10/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
-<details>
-<summary>Open developer console</summary>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-```txt
-> booting profile...
-> stack: Next.js | RAG | Unity | OpenCV | Postgres
-> focus: useful products, clean systems, deployed software
-> status: building
-```
+## Establish Contact
 
-</details>
+<p align="center">
+  <a href="https://linkedin.com/in/faizan-aslam10"><img src="https://img.shields.io/badge/LinkedIn-Send%20Signal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/FaizanAslam10"><img src="https://img.shields.io/badge/GitHub-Follow%20Orbit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:m.faizanaslam10@gmail.com"><img src="https://img.shields.io/badge/Email-Transmit-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## Contact
+<p align="center">
+  <em>From Earth with code — if a mission caught your eye, drop a star. It helps the constellation grow.</em>
+</p>
 
-- LinkedIn: [linkedin.com/in/faizan-aslam10](https://linkedin.com/in/faizan-aslam10)
-- GitHub: [github.com/FaizanAslam10](https://github.com/FaizanAslam10)
-- Email: [m.faizanaslam10@gmail.com](mailto:m.faizanaslam10@gmail.com)
+<!-- GALACTIC FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7b2ff7,30:3d2c8d,65:1b1b4d,100:0b0b2a&section=footer" alt="footer wave" />
