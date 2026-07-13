@@ -135,6 +135,12 @@ RAG | Next.js | React | Supabase | Firebase | Postgres | OpenCV | Unity | C# | A
 </p>
 
 
+## Telemetry: GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaizanAslam10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAslam10&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ## Contribution Snake
 
 <p align="center">
@@ -157,5 +163,6 @@ RAG | Next.js | React | Supabase | Firebase | Postgres | OpenCV | Unity | C# | A
 
 <!-- GALACTIC FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7b2ff7,30:3d2c8d,65:1b1b4d,100:0b0b2a&section=footer" alt="footer wave" />
+
 
 
