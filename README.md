@@ -129,11 +129,6 @@ RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • 
 ## Telemetry: GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaizanAslam10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b2a&title_color=7b2ff7&icon_color=61dafb&text_color=e6e6fa&ring_color=7b2ff7" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAslam10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b2a&title_color=7b2ff7&text_color=e6e6fa" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=FaizanAslam10&theme=tokyonight&hide_border=true&background=0b0b2a&ring=7b2ff7&fire=61dafb&currStreakLabel=e6e6fa&sideLabels=e6e6fa&currStreakNum=ffffff&sideNums=ffffff&dates=8888aa" alt="GitHub Streak" />
 </p>
 
