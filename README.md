@@ -127,6 +127,7 @@ $ probe --target GARGANTUA --scan deep
 RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • Unity • C# • AI-assisted development • turning raw ideas into deployed products
 
 </details>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 ## The Tech Nebula
 
 <h4>Languages</h4>
@@ -159,6 +160,7 @@ RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
 ## Telemetry: GitHub Stats
 
 <p align="center">
