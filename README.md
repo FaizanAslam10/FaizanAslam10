@@ -150,7 +150,7 @@ RAG | Next.js | React | Supabase | Firebase | Postgres | OpenCV | Unity | C# | A
 ## Establish Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/faizan-aslam10"><img src="assets/contact-linkedin.svg" width="240" alt="LinkedIn - faizan-aslam10" /></a><<a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.faizanaslam10@gmail.com">
+  <a href="https://linkedin.com/in/faizan-aslam10"><img src="assets/contact-linkedin.svg" width="240" alt="LinkedIn - faizan-aslam10" /></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.faizanaslam10@gmail.com">
   <img src="assets/contact-email.svg" width="240" alt="Email - m.faizanaslam10@gmail.com" />
 </a>
 </p>
