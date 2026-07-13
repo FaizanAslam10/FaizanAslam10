@@ -298,15 +298,15 @@
 
 <p align="center">
   <a href="https://github.com/FaizanAslam10">
-    <img src="https://img.shields.io/badge/GitHub-FaizanAslam10-181717?style=flat-square&logo=github" alt="GitHub" />
+    <img src="assets/contact-github.svg" width="270" alt="GitHub - FaizanAslam10" />
   </a>
   <a href="https://linkedin.com/in/faizan-aslam10">
-    <img src="https://img.shields.io/badge/LinkedIn-faizan--aslam10-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="assets/contact-linkedin.svg" width="282" alt="LinkedIn - faizan-aslam10" />
   </a>
   <a href="mailto:m.faizanaslam10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-m.faizanaslam10%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="assets/contact-email.svg" width="356" alt="Email - m.faizanaslam10@gmail.com" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FaizanAslam10&style=flat-square&color=2F81F7" alt="Profile views" />
+  <img src="assets/contact-views.svg" width="252" alt="Visitor telemetry" />
 </p>
 
 ```aura width=1200 height=84
@@ -864,9 +864,16 @@ RAG | Next.js | React | Supabase | Firebase | Postgres | OpenCV | Unity | C# | A
 ## Establish Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/faizan-aslam10"><img src="https://img.shields.io/badge/LinkedIn-Send%20Signal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/FaizanAslam10"><img src="https://img.shields.io/badge/GitHub-Follow%20Orbit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:m.faizanaslam10@gmail.com"><img src="https://img.shields.io/badge/Email-Transmit-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/FaizanAslam10">
+    <img src="assets/contact-github.svg" width="270" alt="GitHub - FaizanAslam10" />
+  </a>
+  <a href="https://linkedin.com/in/faizan-aslam10">
+    <img src="assets/contact-linkedin.svg" width="282" alt="LinkedIn - faizan-aslam10" />
+  </a>
+  <a href="mailto:m.faizanaslam10@gmail.com">
+    <img src="assets/contact-email.svg" width="356" alt="Email - m.faizanaslam10@gmail.com" />
+  </a>
+  <img src="assets/contact-views.svg" width="252" alt="Visitor telemetry" />
 </p>
 
 <p align="center">
