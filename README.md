@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+Applications+Builder;RAG+%7C+OpenCV+%7C+Next.js;Unity+3D+Game+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/FaizanAslam10">
     <img src="https://img.shields.io/badge/GitHub-FaizanAslam10-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
@@ -18,6 +22,7 @@
   <a href="mailto:m.faizanaslam10@gmail.com">
     <img src="https://img.shields.io/badge/Email-m.faizanaslam10%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=FaizanAslam10&style=flat-square&color=2F81F7" alt="Profile views" />
 </p>
 
 ---
@@ -27,6 +32,14 @@
 I'm a Computer Science student and Full-Stack Developer from Lahore, Pakistan. My work focuses on practical software: AI legal research, RAG pipelines, business websites, e-commerce systems, computer vision tools, and Unity games.
 
 I like building products end to end: interface, backend, database, authentication, deployment, and polish.
+
+## Highlights
+
+- Built **Qanoon**, an AI legal research assistant grounded in **1,000+ Pakistani statutes**
+- Implemented RAG pipelines with vector embeddings, semantic search, and Postgres vector storage
+- Built a 2D floor plan to 3D visualization workflow using OpenCV and CNN-based recognition
+- Shipped full-stack business websites with frontend, backend, database, auth, and deployment
+- Built Unity projects including 2D games and ongoing 3D AI-driven gameplay systems
 
 ## Selected Work
 
@@ -46,6 +59,10 @@ I like building products end to end: interface, backend, database, authenticatio
 **AI / ML:** RAG, Vector Search, Embeddings, CNNs, OpenCV, Prompt Engineering  
 **Game Dev:** Unity, C#, 2D/3D gameplay systems, AI behavior  
 **Tools:** Git, GitHub, Vercel, Android Studio, Shopify, Canva
+
+## Ask Me About
+
+RAG, Next.js, React, Supabase, Firebase, Postgres, OpenCV, Unity, C#, AI-assisted development, and turning raw ideas into deployed products.
 
 ## Tech Stack
 
@@ -105,6 +122,26 @@ I like building products end to end: interface, backend, database, authenticatio
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=FaizanAslam10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAslam10&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=FaizanAslam10&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub trophies" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/FaizanAslam10/FaizanAslam10/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
+<details>
+<summary>Open developer console</summary>
+
+```txt
+> booting profile...
+> stack: Next.js | RAG | Unity | OpenCV | Postgres
+> focus: useful products, clean systems, deployed software
+> status: building
+```
+
+</details>
 
 ## Contact
 
