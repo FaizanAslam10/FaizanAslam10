@@ -1,24 +1,19 @@
-<!-- GALACTIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0b2a,35:1b1b4d,70:3d2c8d,100:7b2ff7&text=FAIZAN%20ASLAM&fontColor=e6e6fa&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Applications%20%E2%80%A2%20Unity%203D&descAlignY=55&descSize=18&animation=fadeIn" alt="Faizan Aslam banner" />
-
+<!-- STARFIELD HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=7B2FF7&center=true&vCenter=true&width=700&lines=Launching+production-ready+web+platforms;AI+%2B+RAG+pipelines+grounded+in+real+data;Next.js+%7C+OpenCV+%7C+Postgres+%7C+pgvector;Unity+3D+worlds+with+AI-driven+behavior;Turning+raw+ideas+into+deployed+products" alt="Typing SVG" />
+  <img width="100%" src="profile-star-header.gif" alt="Faizan Aslam - Full-Stack Developer | AI Applications | Unity 3D" />
 </p>
 
 <p align="center">
   <a href="https://github.com/FaizanAslam10">
-    <img src="https://img.shields.io/badge/GitHub-FaizanAslam10-0b0b2a?style=for-the-badge&logo=github&logoColor=white&labelColor=1b1b4d" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-FaizanAslam10-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/faizan-aslam10">
-    <img src="https://img.shields.io/badge/LinkedIn-faizan--aslam10-0b0b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1b1b4d" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-faizan--aslam10-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:m.faizanaslam10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Mission%20Control-0b0b2a?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=1b1b4d" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-m.faizanaslam10%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FaizanAslam10&style=for-the-badge&color=7b2ff7&label=VISITORS+FROM+EARTH" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=FaizanAslam10&style=flat-square&color=2F81F7" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -31,7 +26,7 @@
 
 I'm a Computer Science student and Full-Stack Developer building software that actually ships: AI legal research, RAG pipelines, business websites, e-commerce systems, computer vision tools, and Unity games.
 
-I build products **end to end** — interface, backend, database, authentication, deployment, and polish. From the first commit to the final orbit.
+I build products **end to end** - interface, backend, database, authentication, deployment, and polish. From the first commit to the final orbit.
 
 ## Constellation of Highlights
 
@@ -85,12 +80,12 @@ signal strength: 100%
 
 <br />
 
-**Full-Stack Developer — ARK TechnoSolution** `2024 – 2025`
+**Full-Stack Developer - ARK TechnoSolution** `2024 - 2025`
 - Built and deployed full-stack web applications from frontend to database
 - Integrated APIs, authentication systems, and production-ready deployment flows
 - Worked with clients and design teams across the software development lifecycle
 
-**Business Websites & E-Commerce** `2025 – 2026`
+**Business Websites & E-Commerce** `2025 - 2026`
 - PanjtanPak Developers: production deployment and hosting management
 - Dreams and Diamonds: jewelry e-commerce platform under active development
 
@@ -101,7 +96,7 @@ signal strength: 100%
 
 <br />
 
-RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • Unity • C# • AI-assisted development • turning raw ideas into deployed products
+RAG | Next.js | React | Supabase | Firebase | Postgres | OpenCV | Unity | C# | AI-assisted development | turning raw ideas into deployed products
 
 </details>
 
@@ -171,7 +166,7 @@ RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • 
 </p>
 
 <p align="center">
-  <em>From Earth with code — if a mission caught your eye, drop a star. It helps the constellation grow.</em>
+  <em>From Earth with code - if a mission caught your eye, drop a star. It helps the constellation grow.</em>
 </p>
 
 <!-- GALACTIC FOOTER -->
