@@ -21,7 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=FaizanAslam10&style=for-the-badge&color=7b2ff7&label=VISITORS+FROM+EARTH" alt="Profile views" />
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?v=2" alt="divider" />
+</p>
 
 ## Transmission: About Me
 
@@ -57,48 +59,23 @@ I build products **end to end** — interface, backend, database, authentication
 <br />
 
 ```bash
-$ ssh faizan@deep-space-station
-> establishing uplink........... [OK]
-> booting profile.os v2.0 ...... [OK]
+$ ssh faizan@dev-station
+> establishing uplink... [OK]
+> booting profile.os v2.0... [OK]
 
-  ┌─────────────────────────────────────────────┐
-  │  PILOT    : Faizan Aslam                    │
-  │  STACK    : Next.js | RAG | Unity | OpenCV  │
-  │  DATABASE : Postgres + pgvector             │
-  │  FOCUS    : useful products, clean systems  │
-  │  STATUS   : BUILDING                        │
-  └─────────────────────────────────────────────┘
+PILOT    : Faizan Aslam
+STACK    : Next.js | RAG | Unity | OpenCV
+DATABASE : Postgres + pgvector
+FOCUS    : useful products, clean systems
+STATUS   : BUILDING
 
-> current trajectory:
-  ✦ AI legal research tools for Pakistani law
-  ✦ 2D floor plan → 3D visualization workflows
-  ✦ SEO-focused business websites and dashboards
-  ✦ Unity gameplay systems with AI-driven behavior
+current trajectory:
+- AI legal research tools for Pakistani law
+- 2D floor plan -> 3D visualization workflows
+- SEO-focused business websites and dashboards
+- Unity gameplay systems with AI-driven behavior
 
-> signal strength: ████████████████████ 100%
-```
-
-</details>
-
-<details>
-<summary><strong>Decode Gravitational Telemetry</strong></summary>
-
-<br />
-
-```bash
-$ probe --target GARGANTUA --scan deep
-
-  ┌──────────────────────────────────────────────┐
-  │  OBJECT     : Supermassive Black Hole        │
-  │  MASS       : 100M solar masses              │
-  │  SPIN       : 99.8% speed of light           │
-  │  LENSING    : extreme — light bends to view  │
-  │  SINGULARITY: where all my TODOs collapse    │
-  └──────────────────────────────────────────────┘
-
-> gravitational pull detected on: bugs, scope creep, merge conflicts
-> nothing escapes the event horizon... except shipped features
-> "It's not possible." — "No. It's necessary."
+signal strength: 100%
 ```
 
 </details>
@@ -127,7 +104,11 @@ $ probe --target GARGANTUA --scan deep
 RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • Unity • C# • AI-assisted development • turning raw ideas into deployed products
 
 </details>
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?v=2" alt="divider" />
+</p>
+
 ## The Tech Nebula
 
 <h4>Languages</h4>
@@ -177,7 +158,9 @@ RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • 
   <img src="https://raw.githubusercontent.com/FaizanAslam10/FaizanAslam10/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?v=2" alt="divider" />
+</p>
 
 ## Establish Contact
 
@@ -193,5 +176,6 @@ RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • 
 
 <!-- GALACTIC FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7b2ff7,30:3d2c8d,65:1b1b4d,100:0b0b2a&section=footer" alt="footer wave" />
+
 
 
