@@ -31,15 +31,6 @@ I'm a Computer Science student and Full-Stack Developer building software that a
 
 I build products **end to end** — interface, backend, database, authentication, deployment, and polish. From the first commit to the final orbit.
 
-<p align="center">
-  <img width="90%" src="gargantua.png" alt="Gargantua black hole with glowing accretion disk" title="Click at your own risk — nothing escapes the event horizon" />
-</p>
-
-<p align="center">
-  <em>"Do not go gentle into that good night. Rage, rage against the dying of the light."</em><br />
-  <sub>A supermassive black hole sits at the center of this profile. Time dilation in effect: 1 hour here = 7 years of shipping code.</sub>
-</p>
-
 <details>
 <summary><strong>Recovered Footage: The Day Gargantua Consumed This Profile</strong></summary>
 
