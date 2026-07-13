@@ -116,20 +116,12 @@ RAG, Next.js, React, Supabase, Firebase, Postgres, OpenCV, Unity, C#, AI-assiste
 - SEO-focused business websites and dashboards
 - Unity gameplay systems with AI-driven behavior
 
-## GitHub
+## GitHub Focus
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FaizanAslam10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAslam10&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=FaizanAslam10&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub trophies" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/FaizanAslam10/FaizanAslam10/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
+- Building practical AI and full-stack projects
+- Keeping repositories documented with live demos, screenshots, and setup notes
+- Improving deployed projects through real updates, cleanup, and performance work
+- Publishing work that shows product thinking, not just code
 
 <details>
 <summary>Open developer console</summary>
