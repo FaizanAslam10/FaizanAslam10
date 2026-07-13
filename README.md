@@ -123,6 +123,10 @@ RAG, Next.js, React, Supabase, Firebase, Postgres, OpenCV, Unity, C#, AI-assiste
 - Improving deployed projects through real updates, cleanup, and performance work
 - Publishing work that shows product thinking, not just code
 
+<p>
+  <img src="https://raw.githubusercontent.com/FaizanAslam10/FaizanAslam10/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
 <details>
 <summary>Open developer console</summary>
 
