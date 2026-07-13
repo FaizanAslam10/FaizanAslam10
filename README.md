@@ -43,6 +43,8 @@ I build products **end to end** — interface, backend, database, authentication
 
 | Mission | Objective | Propulsion | Status |
 |---|---|---|---|
+| **PanjtanPak Developers** | Production website for a real estate and development business | Web Development, Hosting, Deployment | [Live](https://www.panjtanpakdevelopers.com/) |
+| **Dreams and Diamonds** | Jewelry e-commerce website with a polished customer-facing storefront | E-commerce, Web Development, Deployment | [Live](https://www.dreamsanddiamonds.org/) |
 | **Qanoon** | AI legal research assistant for Pakistani law with cited statute-backed answers | Next.js, RAG, Postgres, Vector Search, Vercel | [In Orbit](https://legal-rag-assistant-two.vercel.app/) |
 | **2D Floor Plan to 3D** | Converts residential floor plans into interactive 3D walkthrough visualizations | OpenCV, CNNs, 3D Visualization | [In Orbit](https://fypwebsite-black.vercel.app/) |
 | **TradeRank** | Marketing platform for local service businesses with dashboards and lead flows | Next.js, Tailwind CSS, SEO | On Launchpad |
@@ -158,3 +160,5 @@ RAG • Next.js • React • Supabase • Firebase • Postgres • OpenCV • 
 
 <!-- GALACTIC FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7b2ff7,30:3d2c8d,65:1b1b4d,100:0b0b2a&section=footer" alt="footer wave" />
+
+
